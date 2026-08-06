@@ -14,7 +14,7 @@ The main objective of this project is to understand business performance and use
 
 ### Executive Overview
 
-![Executive Overview](Executive OverView.png)
+![Executive Overview](Executive_Overview.png)
 
 ### Customer Analysis
 
@@ -23,7 +23,6 @@ The main objective of this project is to understand business performance and use
 ### Delivery & Rider Analysis
 
 ![Delivery & Rider Analysis](Delivery_Rider_Analysis.png)
-
 ### 1. Executive Overview
 
 The Executive Overview includes:
