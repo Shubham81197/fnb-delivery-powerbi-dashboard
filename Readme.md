@@ -10,7 +10,19 @@ The project focuses on orders, customers, restaurants, riders, and third-party l
 
 The main objective of this project is to understand business performance and use data to identify useful business insights.
 
-## Dashboard Pages
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Executive_Overview.png)
+
+### Customer Analysis
+
+![Customer Analysis](Customer_Analysis.png)
+
+### Delivery & Rider Analysis
+
+![Delivery & Rider Analysis](Delivery_Rider_Analysis.png)
 
 ### 1. Executive Overview
 
