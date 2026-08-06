@@ -85,34 +85,3 @@ The dataset used in this project is a simulated dataset created for learning and
 ## Project Learning
 
 This project helped me understand how to transform raw data into a structured dashboard and use data to support business decisions.
-
-# F&B Delivery Business Analysis Dashboard 📊
-
-## Project Overview
-...
-
-## Project Objective
-...
-
-## Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](Executive_Overview.png)
-
-### Customer Analysis
-
-![Customer Analysis](Customer_Analysis.png)
-
-### Delivery & Rider Analysis
-
-![Delivery & Rider Analysis](Delivery_Rider_Analysis.png)
-
-## Tools Used
-...
-
-## Skills Practiced
-...
-
-## Business Questions
-...
