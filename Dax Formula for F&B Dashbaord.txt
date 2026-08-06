@@ -1,0 +1,49 @@
+Dax Formula for F&B Dashbaord 
+
+1.Cancellation Rate =
+DIVIDE(
+    CALCULATE(
+        [Total Orders],
+        Orders[Order_Status] = "Cancelled"
+    ),
+    [Total Orders]
+)
+
+2.Total Revenue =
+SUM(Orders[Order_Value])
+
+3.Total Orders =
+DISTINCTCOUNT(Orders[Order_ID])'
+
+4.
+Total Customers =
+DISTINCTCOUNT(Orders[Customer_ID])
+
+5.
+Average Order Value =
+DIVIDE([Total Revenue], [Total Orders])
+
+6.
+
+Cancellation Rate =
+DIVIDE(
+    CALCULATE(
+        [Total Orders],
+        Orders[Order_Status] = "Cancelled"
+    ),
+    [Total Orders]
+)
+
+
+7.
+On-Time Delivery % =
+DIVIDE(
+    CALCULATE(
+        [Total Orders],
+        Orders[On_Time_Delivery] = TRUE()
+    ),
+    [Delivered Orders]
+)
+
+8.Avg Delivery Time =
+AVERAGE(Orders[Delivery_Minutes])
