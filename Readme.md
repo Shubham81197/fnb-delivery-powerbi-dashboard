@@ -14,7 +14,8 @@ The main objective of this project is to understand business performance and use
 
 ### Executive Overview
 
-![Executive Overview](Executive_Overview.png)
+![Executive Overview]
+![Executive Overview]
 
 ### Customer Analysis
 
