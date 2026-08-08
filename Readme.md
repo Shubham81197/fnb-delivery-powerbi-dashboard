@@ -18,7 +18,7 @@ The main objective of this project is to understand business performance and use
 
 ### Customer Analysis
 
-![Customer Analysis](Customer_Analysis.png)
+![Customer Analysis]Customer Analysis.png
 
 ### Delivery & Rider Analysis
 
